@@ -1,18 +1,18 @@
-# Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 437,720 | 🐛 71 | 📅 2026-01-28 with stars
+# Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 437,916 | 🐛 71 | 📅 2026-01-28 with stars
 
 A curated list of amazingly awesome **CakePHP 5.x+** plugins, resources and shiny things.
 
 If you are looking for previous CakePHP resources please visit:
 
-* the [CakePHP 2.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake2) ⭐ 930 | 🐛 1 | 📅 2026-02-15 of this awesome list
-* the [CakePHP 3.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake3) ⭐ 930 | 🐛 1 | 📅 2026-02-15 of this awesome list
-* the [CakePHP 4.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake4) ⭐ 930 | 🐛 1 | 📅 2026-02-15 of this awesome list
-* this wiki with a [list of not-yet upgraded plugins](https://github.com/FriendsOfCake/awesome-cakephp/wiki#plugins-not-yet-upgraded-from-2x-to-3x) ⭐ 930 | 🐛 1 | 📅 2026-02-15
+* the [CakePHP 2.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake2) ⭐ 930 | 🐛 1 | 📅 2026-02-16 of this awesome list
+* the [CakePHP 3.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake3) ⭐ 930 | 🐛 1 | 📅 2026-02-16 of this awesome list
+* the [CakePHP 4.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake4) ⭐ 930 | 🐛 1 | 📅 2026-02-16 of this awesome list
+* this wiki with a [list of not-yet upgraded plugins](https://github.com/FriendsOfCake/awesome-cakephp/wiki#plugins-not-yet-upgraded-from-2x-to-3x) ⭐ 930 | 🐛 1 | 📅 2026-02-16
 
 Additional lists you might find useful:
 
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,218 | 🐛 44 | 🌐 Ruby | 📅 2024-06-02
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,367 | 🐛 68 | 📅 2026-01-17
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,221 | 🐛 44 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,368 | 🐛 68 | 📅 2026-01-17
 * [CakePHP Plugins](https://plugins.cakephp.org)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
@@ -112,7 +112,7 @@ Additional lists you might find useful:
 * [Authentication plugin](https://github.com/cakephp/authentication) ⭐ 115 | 🐛 1 | 🌐 PHP | 📅 2026-02-09 - Official CakePHP authentication middleware plugin.
 * [Authorization plugin](https://github.com/cakephp/authorization) ⭐ 74 | 🐛 0 | 🌐 PHP | 📅 2026-02-14 - Official CakePHP authorization stack.
 * [ADmad/SocialAuth plugin](https://github.com/ADmad/cakephp-social-auth) ⭐ 51 | 🐛 4 | 🌐 PHP | 📅 2026-01-06 - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth](https://github.com/SocialConnect/auth) ⭐ 563 | 🐛 36 | 🌐 PHP | 📅 2025-08-28 social sign on library.
-* [TwoFactorAuth plugin](https://github.com/andrej-griniuk/cakephp-two-factor-auth) ⭐ 37 | 🐛 5 | 🌐 PHP | 📅 2025-11-10 - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) ⭐ 1,169 | 🐛 3 | 🌐 PHP | 📅 2026-01-05 library.
+* [TwoFactorAuth plugin](https://github.com/andrej-griniuk/cakephp-two-factor-auth) ⭐ 37 | 🐛 5 | 🌐 PHP | 📅 2025-11-10 - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) ⭐ 1,170 | 🐛 3 | 🌐 PHP | 📅 2026-01-05 library.
 * [ApiTokenAuthenticator plugin](https://github.com/rrd108/api-token-authenticator) ⭐ 3 | 🐛 4 | 🌐 PHP | 📅 2025-11-26 - A simple token authentication plugin for CakePHP REST APIs.
 
 ## Caching
@@ -161,7 +161,7 @@ Additional lists you might find useful:
 
 *Upload, storage, and file handling.*
 
-* [Josegonzalez/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) ⭐ 545 | 🐛 11 | 🌐 PHP | 📅 2025-05-30 - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
+* [Josegonzalez/Upload plugin](https://github.com/FriendsOfCake/cakephp-upload) ⭐ 545 | 🐛 10 | 🌐 PHP | 📅 2026-02-16 - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
 * [FileStorage plugin](https://github.com/dereuromark/cakephp-file-storage) ⭐ 9 | 🐛 1 | 🌐 PHP | 📅 2026-02-07 - Flexible file storage and upload plugin.
 
 ## Filtering and Validation
@@ -213,7 +213,7 @@ Additional lists you might find useful:
 
 *Plugins and resources around migration and upgrading.*
 
-* [Migrations plugin](https://github.com/cakephp/migrations) ⭐ 138 | 🐛 5 | 🌐 PHP | 📅 2026-02-12 - (DB) Migration plugin.
+* [Migrations plugin](https://github.com/cakephp/migrations) ⭐ 138 | 🐛 6 | 🌐 PHP | 📅 2026-02-12 - (DB) Migration plugin.
 * [Upgrade app](https://github.com/cakephp/upgrade) ⭐ 111 | 🐛 2 | 🌐 PHP | 📅 2026-02-12 - Official upgrade app for 3.x=>4.x and 4.x=>5.x.
 * [Upgrade app (extended)](https://github.com/dereuromark/upgrade) ⭐ 23 | 🐛 1 | 🌐 PHP | 📅 2025-11-21 - An extended upgrade app for 3.x=>4.x and some 5.x snippets.
 * [Upgrade/Migration Guide](https://book.cakephp.org/5/en/appendices.html) - Official migration guide.
@@ -323,7 +323,7 @@ Additional lists you might find useful:
 
 *Plugins and repositories around app skeletons.*
 
-* [App template](https://github.com/cakephp/app) ⭐ 383 | 🐛 3 | 🌐 PHP | 📅 2026-02-13 - An empty CakePHP project for use with composer.
+* [App template](https://github.com/cakephp/app) ⭐ 384 | 🐛 3 | 🌐 PHP | 📅 2026-02-13 - An empty CakePHP project for use with composer.
 * [BS flavored App template](https://github.com/dereuromark/cakephp-app) ⭐ 4 | 🐛 0 | 🌐 PHP | 📅 2025-06-25 - An empty CakePHP project with BS5 and FontAwesome out of the box.
 
 ## Social
@@ -356,7 +356,7 @@ Additional lists you might find useful:
 
 * [CakePHP CodeSniffer rules](https://github.com/cakephp/cakephp-codesniffer) ⭐ 231 | 🐛 4 | 🌐 PHP | 📅 2026-02-06 - The official CakePHP CS rules.
 * [FriendsOfCake/Fixturize plugin](https://github.com/FriendsOfCake/fixturize) ⭐ 24 | 🐛 4 | 🌐 PHP | 📅 2024-08-09 - More efficient inserting fixtures when running test suites by decreasing amount of inserts (mysql only).
-* [CakephpFixtureFactories plugin](https://github.com/dereuromark/cakephp-fixture-factories) ⭐ 1 | 🐛 2 | 🌐 PHP | 📅 2026-02-06 - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
+* [CakephpFixtureFactories plugin](https://github.com/dereuromark/cakephp-fixture-factories) ⭐ 1 | 🐛 1 | 🌐 PHP | 📅 2026-02-16 - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
 
 ## Third Party APIs
 
@@ -374,7 +374,8 @@ Additional lists you might find useful:
 * [NetBeans](https://github.com/junichi11/cakephp3-netbeans) ⭐ 48 | 🐛 8 | 🌐 Java | 📅 2022-11-24 - This package provides support for CakePHP in NetBeans 8.1+.
 * [Docker](https://github.com/stefanvangastel/docker-cakephp) ⭐ 30 | 🐛 0 | 🌐 Dockerfile | 📅 2019-11-09 - CakePHP in a docker container environment.
 * [CakePHP Docker](https://github.com/cnizzardini/cakephp-docker) ⭐ 29 | 🐛 4 | 🌐 PHP | 📅 2024-11-25 - A cakephp/app template for docker.
-* [CakePHP Vagrant Setup](https://github.com/cpierce/cakephp-vagrant-setup) ⭐ 5 | 🐛 0 | 🌐 Jinja | 📅 2022-03-31 - Tool for spinning up multiple CakePHP vanilla dev environments.
+* [CakePHP Vagrant Setup](https://github.com/cpierce/cakephp-vagrant-setup) ⭐ 5 | 🐛 0 | 🌐 Jinja | 📅 2022-03-31 - Tool for spinning up multiple CakePHP vanilla dev environments using Vagrant.
+* [CakePHP Docker Setup](https://github.com/cpierce/cakephp-docker-setup) ⭐ 0 | 🐛 0 | 🌐 Smarty | 📅 2026-02-16 - Tool for spinning up multiple CakePHP vanilla dev environments using Docker.
 * [DDEV](https://ddev.readthedocs.io/en/stable/) - Docker based local env.
 * [Devilbox](https://devilbox.readthedocs.io/en/latest/) - A docker development environment for (CakePHP) apps to be auto-setup including a lot of tools.
 * [Galley](https://gitlab.com/amayer5125/galley) - A small Docker dev environment for CakePHP development which includes a simple command line utility.
@@ -393,7 +394,7 @@ IDE specific compatibility information and tips can be found [here](https://gith
 
 *Web-based (demo) applications and tools.*
 
-* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 82,826 | 🐛 40 | 🌐 Bru | 📅 2026-02-15 spec and API.
+* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 82,827 | 🐛 40 | 🌐 Bru | 📅 2026-02-15 spec and API.
 * [Query Examples](https://github.com/lorenzo/cakephp3-examples) ⭐ 56 | 🐛 0 | 🌐 PHP | 📅 2014-08-23 Advanced query building examples.
 * [Xeta](https://github.com/XetaIO/Xeta) ⭐ 51 | 🐛 4 | 🌐 PHP | 📅 2017-04-25 - A resource to help people starting with CakePHP.
 * [Vue.js Demo App](https://github.com/ishanvyas22/cakephpvue-spa) ⭐ 48 | 🐛 4 | 🌐 PHP | 📅 2026-02-07 - A CakePHP + VueJS single page application skeleton.
@@ -448,7 +449,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 *Reading materials related to the CakePHP internals and decisions.*
 
-* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,785 | 🐛 32 | 🌐 PHP | 📅 2026-02-15 - Give 'em a hand.
+* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,786 | 🐛 29 | 🌐 PHP | 📅 2026-02-17 - Give 'em a hand.
 
 # Conferences
 
@@ -470,4 +471,4 @@ Please see [CONTRIBUTING](origin/CONTRIBUTING.md) for details.
 
 ## Credits
 
-awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark) and is currently maintained by him and the FriendsOfCake group. Thank you to all [contributors](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors) ⭐ 930 | 🐛 1 | 📅 2026-02-15, too.
+awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark) and is currently maintained by him and the FriendsOfCake group. Thank you to all [contributors](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors) ⭐ 930 | 🐛 1 | 📅 2026-02-16, too.
