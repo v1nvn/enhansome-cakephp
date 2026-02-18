@@ -1,17 +1,17 @@
-# Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 437,916 | 🐛 71 | 📅 2026-01-28 with stars
+# Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,153 | 🐛 70 | 📅 2026-01-28 with stars
 
 A curated list of amazingly awesome **CakePHP 5.x+** plugins, resources and shiny things.
 
 If you are looking for previous CakePHP resources please visit:
 
-* the [CakePHP 2.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake2) ⭐ 930 | 🐛 1 | 📅 2026-02-16 of this awesome list
-* the [CakePHP 3.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake3) ⭐ 930 | 🐛 1 | 📅 2026-02-16 of this awesome list
-* the [CakePHP 4.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake4) ⭐ 930 | 🐛 1 | 📅 2026-02-16 of this awesome list
-* this wiki with a [list of not-yet upgraded plugins](https://github.com/FriendsOfCake/awesome-cakephp/wiki#plugins-not-yet-upgraded-from-2x-to-3x) ⭐ 930 | 🐛 1 | 📅 2026-02-16
+* the [CakePHP 2.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake2) ⭐ 930 | 🐛 1 | 📅 2026-02-17 of this awesome list
+* the [CakePHP 3.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake3) ⭐ 930 | 🐛 1 | 📅 2026-02-17 of this awesome list
+* the [CakePHP 4.x version](https://github.com/FriendsOfCake/awesome-cakephp/tree/cake4) ⭐ 930 | 🐛 1 | 📅 2026-02-17 of this awesome list
+* this wiki with a [list of not-yet upgraded plugins](https://github.com/FriendsOfCake/awesome-cakephp/wiki#plugins-not-yet-upgraded-from-2x-to-3x) ⭐ 930 | 🐛 1 | 📅 2026-02-17
 
 Additional lists you might find useful:
 
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,221 | 🐛 44 | 🌐 Ruby | 📅 2024-06-02
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,224 | 🐛 43 | 🌐 Ruby | 📅 2024-06-02
 * [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,368 | 🐛 68 | 📅 2026-01-17
 * [CakePHP Plugins](https://plugins.cakephp.org)
 
@@ -126,7 +126,7 @@ Additional lists you might find useful:
 
 *Analyzing, parsing and manipulation codebases.*
 
-* [IdeHelper plugin](https://github.com/dereuromark/cakephp-ide-helper) ⭐ 184 | 🐛 5 | 🌐 PHP | 📅 2026-02-06 - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
+* [IdeHelper plugin](https://github.com/dereuromark/cakephp-ide-helper) ⭐ 185 | 🐛 5 | 🌐 PHP | 📅 2026-02-06 - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
 * [cakedc/cakephp-phpstan](https://github.com/CakeDC/cakephp-phpstan) ⭐ 38 | 🐛 1 | 🌐 PHP | 📅 2025-11-13 - A PHPStan extension to resolve CakePHP magic around getter return types for the static analyzer.
 * [TestHelper plugin](https://github.com/dereuromark/cakephp-test-helper) ⭐ 6 | 🐛 1 | 🌐 PHP | 📅 2026-02-09 - Provides testing enhancements and TDD support as browser backend.
 * [lordsimal/cakephp-psalm](https://github.com/LordSimal/cakephp-psalm) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2025-11-21 - A Psalm extension to resolve CakePHP magic around getter return types for the static analyzer.
@@ -213,7 +213,7 @@ Additional lists you might find useful:
 
 *Plugins and resources around migration and upgrading.*
 
-* [Migrations plugin](https://github.com/cakephp/migrations) ⭐ 138 | 🐛 6 | 🌐 PHP | 📅 2026-02-12 - (DB) Migration plugin.
+* [Migrations plugin](https://github.com/cakephp/migrations) ⭐ 138 | 🐛 6 | 🌐 PHP | 📅 2026-02-18 - (DB) Migration plugin.
 * [Upgrade app](https://github.com/cakephp/upgrade) ⭐ 111 | 🐛 2 | 🌐 PHP | 📅 2026-02-12 - Official upgrade app for 3.x=>4.x and 4.x=>5.x.
 * [Upgrade app (extended)](https://github.com/dereuromark/upgrade) ⭐ 23 | 🐛 1 | 🌐 PHP | 📅 2025-11-21 - An extended upgrade app for 3.x=>4.x and some 5.x snippets.
 * [Upgrade/Migration Guide](https://book.cakephp.org/5/en/appendices.html) - Official migration guide.
@@ -235,7 +235,7 @@ Additional lists you might find useful:
 * [Inertia plugin](https://github.com/CakeDC/cakephp-inertia) ⭐ 12 | 🐛 1 | 🌐 Twig | 📅 2025-03-03 - Plugin for connecting a Vue 3 app and use an API interface using a middleware.
 * [OPCache Preloader](https://github.com/cnizzardini/cakephp-preloader) ⭐ 12 | 🐛 0 | 🌐 PHP | 📅 2026-02-15 - An OPCache Preloader for CakePHP applications.
 * [Feedback plugin](https://github.com/dereuromark/cakephp-feedback) ⭐ 7 | 🐛 2 | 🌐 PHP | 📅 2026-02-06 - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
-* [AttributeRegistry plugin](https://github.com/josbeir/cakephp-attribute-registry) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2026-01-08 - A powerful CakePHP plugin for discovering, caching, and querying PHP 8 attributes across your application and plugins.
+* [AttributeRegistry plugin](https://github.com/josbeir/cakephp-attribute-registry) ⚠️ Archived - A powerful CakePHP plugin for discovering, caching, and querying PHP 8 attributes across your application and plugins.
 
 ## Navigation
 
@@ -296,7 +296,7 @@ Additional lists you might find useful:
 
 *Plugins and software for indexing and performing search queries on data.*
 
-* [Search plugin](https://github.com/FriendsOfCake/search) ⭐ 173 | 🐛 1 | 🌐 PHP | 📅 2026-02-09 - Provides easy searching/filtering for paginated views using PRG pattern.
+* [Search plugin](https://github.com/FriendsOfCake/search) ⭐ 174 | 🐛 1 | 🌐 PHP | 📅 2026-02-09 - Provides easy searching/filtering for paginated views using PRG pattern.
 * [Cake/ElasticSearch plugin](https://github.com/cakephp/elastic-search) ⭐ 85 | 🐛 0 | 🌐 PHP | 📅 2025-11-15 - Alternative ORM using [Elasticsearch](https://www.elastic.co/) as its backend.
 * [PlumSearch plugin](https://github.com/skie/plum_search) ⭐ 19 | 🐛 2 | 🌐 PHP | 📅 2025-12-30 - Implements custom, flexible and extendable search strategies. Implements PRG pattern.
 * [Tags plugin](https://github.com/dereuromark/cakephp-tags) ⭐ 16 | 🐛 1 | 🌐 PHP | 📅 2026-02-06 - For tagging and finding tagged records.
@@ -382,7 +382,7 @@ Additional lists you might find useful:
 * [Puppet](https://puppetlabs.com/) - A server automation framework and application.
 * [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
 
-IDE specific compatibility information and tips can be found [here](https://github.com/dereuromark/cakephp-ide-helper/wiki#ide-support-and-tips) ⭐ 184 | 🐛 5 | 🌐 PHP | 📅 2026-02-06.
+IDE specific compatibility information and tips can be found [here](https://github.com/dereuromark/cakephp-ide-helper/wiki#ide-support-and-tips) ⭐ 185 | 🐛 5 | 🌐 PHP | 📅 2026-02-06.
 
 ## Web Applications
 
@@ -394,7 +394,7 @@ IDE specific compatibility information and tips can be found [here](https://gith
 
 *Web-based (demo) applications and tools.*
 
-* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 82,827 | 🐛 40 | 🌐 Bru | 📅 2026-02-15 spec and API.
+* [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) ⚠️ Archived - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) ⭐ 82,833 | 🐛 40 | 🌐 Bru | 📅 2026-02-15 spec and API.
 * [Query Examples](https://github.com/lorenzo/cakephp3-examples) ⭐ 56 | 🐛 0 | 🌐 PHP | 📅 2014-08-23 Advanced query building examples.
 * [Xeta](https://github.com/XetaIO/Xeta) ⭐ 51 | 🐛 4 | 🌐 PHP | 📅 2017-04-25 - A resource to help people starting with CakePHP.
 * [Vue.js Demo App](https://github.com/ishanvyas22/cakephpvue-spa) ⭐ 48 | 🐛 4 | 🌐 PHP | 📅 2026-02-07 - A CakePHP + VueJS single page application skeleton.
@@ -449,7 +449,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 *Reading materials related to the CakePHP internals and decisions.*
 
-* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,786 | 🐛 29 | 🌐 PHP | 📅 2026-02-17 - Give 'em a hand.
+* [Top 10 (and more) core contributors](https://github.com/cakephp/cakephp/graphs/contributors) ⭐ 8,787 | 🐛 25 | 🌐 PHP | 📅 2026-02-17 - Give 'em a hand.
 
 # Conferences
 
@@ -471,4 +471,4 @@ Please see [CONTRIBUTING](origin/CONTRIBUTING.md) for details.
 
 ## Credits
 
-awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark) and is currently maintained by him and the FriendsOfCake group. Thank you to all [contributors](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors) ⭐ 930 | 🐛 1 | 📅 2026-02-16, too.
+awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark) and is currently maintained by him and the FriendsOfCake group. Thank you to all [contributors](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors) ⭐ 930 | 🐛 1 | 📅 2026-02-17, too.
